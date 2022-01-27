@@ -6,6 +6,6 @@ nome_bd("Luiz")
 
 
 if nome_bd == nome and senha_bd == senha:
-    print('Olá' (nome_bd) )
+    print(f'{nome} é maior de idade.')
 else:
     print('usuario n encontrado')
