@@ -5,7 +5,7 @@ senha_bd("Peste")
 nome_bd("Luiz")
 
 
-if nome_bd == nome and senha_bd == senha
-    print('Olá' {nome} seja bem vindo)
+if nome_bd == nome and senha_bd == senha:
+    print('Olá' (nome_bd) )
 else:
     print('usuario n encontrado')
